@@ -1,16 +1,4 @@
-Since you have successfully built a three-tier architecture with a Spring Boot backend and a React frontend, your README should highlight these technical achievements to potential employers. A professional README act as a map for other developers (or recruiters) to understand how your "Brain" (Service) and "Waiter" (Controller) work together.
 
-### 1. Create the File
-
-In your root folder (the one containing your `frontend` and `target` folders), create a new file named `README.md`.
-
----
-
-### 2. Copy and Paste this Template
-
-This template is structured to showcase your **Java Full-Stack** skills and the specific **Expense Tracker** logic you built.
-
-```markdown
 # Java Full-Stack Expense Tracker
 
 A robust, local-first financial management tool built to demonstrate a modern three-tier architecture using **Spring Boot** and **React**.
@@ -35,8 +23,8 @@ A robust, local-first financial management tool built to demonstrate a modern th
   ├── /frontend (React UI Source)
   ├── tracker.db (Local SQLite Database)
   └── pom.xml (Maven Configuration)
-
 ```
+
 
 ## ⚙️ How to Run Locally
 
