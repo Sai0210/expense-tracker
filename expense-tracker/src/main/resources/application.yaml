@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: expense-tracker
+  datasource:
+    url: jdbc:sqlite:tracker.db
+    driver-class-name: org.sqlite.JDBC
+  jpa:
+    database-platform: org.hibernate.community.dialect.SQLiteDialect
+    show-sql: true
+    hibernate:
+      ddl-auto: update
